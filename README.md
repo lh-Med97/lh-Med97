@@ -22,8 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lh-Med97&show_icons=true&locale=en" alt="lh-Med97" /></p>
 
-<p><img align="center" src="https://avatars.githubusercontent.com/u/102018814?v=4" alt="lh-Med97" /></p>
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/102018814?v=4" alt="lh-Med97" /> </p>
+
 
 
 
